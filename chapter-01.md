@@ -133,4 +133,4 @@ Captain Kube awarding a "Docker Basics" badge to the protagonist.
 
 ---
 
-Congratulations! 🎉 You’ve successfully completed Chapter 1. Next, we’ll explore how to create a Kubernetes cluster in Chapter 2.
+**Congratulations! 🎉** You've successfully completed Chapter 1. In Chapter 2, we'll explore how to create a Kubernetes cluster.

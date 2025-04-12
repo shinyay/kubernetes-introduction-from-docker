@@ -51,7 +51,7 @@ Running Kubernetes locally allows for faster testing and iteration without needi
 -   **Docker Desktop:** Includes an optional single-node Kubernetes cluster, integrating well if you already use Docker Desktop.
 -   **k3s/k3d:** Lightweight Kubernetes distributions often used for local development and CI/CD. k3d runs k3s in Docker.
 
-**Hands-on Exercise:** (Conceptual - Choose one tool to explore)
+### Hands-on Exercise:
 
 Explore the installation guide for one of the tools (e.g., Minikube):
 
@@ -108,7 +108,7 @@ Debugging running applications inside a cluster requires specific techniques:
 -   **Port Forwarding:** `kubectl port-forward deployment/<deployment-name> <local-port>:<container-port>` allows accessing a container's port directly from your local machine (e.g., for connecting a local debugger or accessing a web UI).
 -   **Debugging Tools:** Some languages/frameworks have remote debugging capabilities that can be enabled via port-forwarding.
 
-**Hands-on Exercise:**
+### Hands-on Exercise:
 
 Practice common debugging commands:
 

@@ -1,6 +1,6 @@
 # Chapter 7: Creating Secure Stateless Applications
 
-In this chapter, we’ll focus on building stateless applications in Kubernetes with a strong emphasis on security. Stateless applications are easier to scale and manage, and securing them ensures a robust and reliable deployment.
+In this chapter, we'll focus on building stateless applications in Kubernetes with a strong emphasis on security. Stateless applications are easier to scale and manage, and securing them ensures a robust and reliable deployment. While we'll focus on stateless applications here, the security principles we cover will also apply to stateful applications that you might work with in the future.
 
 ---
 

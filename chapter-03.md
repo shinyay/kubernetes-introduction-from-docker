@@ -1,6 +1,6 @@
 # Chapter 3: Overview of Kubernetes
 
-In this chapter, we’ll introduce Kubernetes, the powerful container orchestration platform. You’ll gain an understanding of its key concepts, components, and how it helps manage containerized applications at scale.
+In this chapter, we'll introduce Kubernetes, the powerful container orchestration platform. Building on the Docker container knowledge from Chapter 1, you'll now learn how Kubernetes helps manage these containers at scale, understanding its key concepts, components, and architecture.
 
 ---
 

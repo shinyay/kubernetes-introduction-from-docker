@@ -1,6 +1,6 @@
 # Chapter 6: Creating and Breaking Kubernetes Resources
 
-In this chapter, we’ll explore the creation of Kubernetes resources and intentionally break them to gain a deeper understanding of their behavior and troubleshooting techniques. Learning through controlled failure helps build confidence in managing Kubernetes clusters.
+In this chapter, we'll embrace the core philosophy of this book: learn by breaking things! We'll explore the creation of Kubernetes resources and then intentionally break them to gain a deeper understanding of their behavior and develop real troubleshooting skills. Many beginners hesitate to experiment for fear of breaking things, but controlled failure is one of the most effective learning tools in Kubernetes. By the end of this chapter, you'll be more confident in your ability to both prevent and solve real-world Kubernetes issues.
 
 ---
 

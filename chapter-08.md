@@ -1,6 +1,6 @@
 # Chapter 8: Review: Fixing Your Application
 
-In this chapter, we’ll revisit the concepts and skills you’ve learned so far by reviewing and fixing a broken application deployed on a Kubernetes cluster. This hands-on approach will solidify your troubleshooting and debugging skills in Kubernetes.
+In this chapter, we'll put all your newly acquired troubleshooting skills to the test. After learning how to intentionally break Kubernetes resources in previous chapters, it's time to focus on the final part of our "build, break, and fix" approach. We'll revisit common issues that can occur in Kubernetes applications and apply systematic troubleshooting techniques to resolve them. This hands-on practice will solidify your ability to diagnose and repair problems in real-world scenarios, making you more confident in managing production Kubernetes environments.
 
 ---
 

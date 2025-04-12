@@ -1,6 +1,6 @@
 # Chapter 1: Creating Docker Containers
 
-In this chapter, we’ll dive into the basics of Docker, the foundation of modern containerized applications. You'll learn how to create, manage, and run Docker containers, which are essential building blocks for Kubernetes.
+In this chapter, we'll start our hands-on journey with Docker, the foundation of modern containerized applications. Before we can effectively troubleshoot Kubernetes, we need to understand the containers it orchestrates. You'll learn how to create, manage, and run Docker containers through practical exercises that form the building blocks for everything that follows. By getting comfortable with containerization first, you'll be better prepared to tackle Kubernetes challenges later.
 
 ---
 

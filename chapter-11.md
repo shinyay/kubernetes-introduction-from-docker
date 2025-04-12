@@ -1,6 +1,6 @@
 # Chapter 11: Let's Touch on Observability and Monitoring
 
-Now that you understand how applications are developed and deployed onto Kubernetes (Chapter 10), a crucial next step is understanding what's happening *inside* your applications and the cluster itself. This is where observability and monitoring come in. This chapter will introduce these concepts, explaining why they are vital for maintaining healthy and performant Kubernetes environments.
+Now that you understand how applications are developed and deployed onto Kubernetes (Chapter 10), we need to address a critical question: How do you know when something goes wrong in production? As we've seen in our "break and fix" exercises, troubleshooting requires information. This is where observability and monitoring come in - they're your eyes and ears inside the complex Kubernetes environment. Without good observability, you're essentially troubleshooting in the dark. This chapter will introduce these concepts, explaining why they are vital for maintaining healthy applications and efficiently resolving issues when they inevitably arise.
 
 ---
 

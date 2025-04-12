@@ -116,7 +116,7 @@ Captain Kube giving an encouraging salute as our protagonist confidently walks t
 
 ---
 
-## Reflect and Plan 🤔
+## Quiz Yourself 🤔
 
 -   Which area of Kubernetes interests you the most for a deeper dive?
 -   What is one resource from section 12-3 you plan to explore next?
